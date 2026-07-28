@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Rashi%20Dabral&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BCA%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=18)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=640&lines=Software+Engineer;AI+%2F+ML+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=640&lines=BCA+Student;Aspiring+Software+Developer;Frontend+Developer;JavaScript+Enthusiast;Building+Web+Projects" alt="Typing SVG" />
 </a>
 
 <br/>
