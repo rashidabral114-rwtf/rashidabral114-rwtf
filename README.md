@@ -30,31 +30,6 @@
 ---
 
 
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python&theme=dark" />
-</p>
-
-### Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-</p>
-
-### Currently Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
-
----
-
-
 ## 📊 GitHub Analytics
 
 <div align="center">
