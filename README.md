@@ -272,20 +272,22 @@ Although I don't have professional industry experience yet, I'm focused on stren
 </div>
 
 ---
-
 ## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rashidabral114-rwtf/rashidabral114-rwtf/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rashidabral114-rwtf/rashidabral114-rwtf/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/rashidabral114-rwtf/rashidabral114-rwtf/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rashidabral114-rwtf/rashidabral114-rwtf/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rashidabral114-rwtf/rashidabral114-rwtf/output/github-contribution-grid-snake.svg" />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/rashidabral114-rwtf/rashidabral114-rwtf/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
----
 ## 🎯 Current Focus
 
 ```yaml
