@@ -257,7 +257,7 @@ Although I don't have professional industry experience yet, I'm focused on stren
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rashidabral114-rwtf&theme=algolia&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=rashidabral114-rwtf&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
